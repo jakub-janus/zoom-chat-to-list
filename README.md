@@ -17,6 +17,7 @@ jakub.janus@uek.krakow.pl
 3. Run the program.
 4. If needed, specify cut-off times for attendance (maximum and minimum time of a message sent in the public chat).
 5. Done - your list is printed and `list.xlsx` is ready for download. (Or written in your folder.)
-
+---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
  ---
  *Comments welcome*
